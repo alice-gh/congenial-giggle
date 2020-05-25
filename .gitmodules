@@ -1,0 +1,3 @@
+[submodule "scaling-waddle"]
+	path = scaling-waddle
+	url = https://alice-gh@github.com/alice-gh/scaling-waddle
